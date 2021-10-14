@@ -4,4 +4,5 @@ Solución de redes sociales que ayuda a las empresas a gestionar contenido, crea
                               ![image](https://user-images.githubusercontent.com/85375320/137070101-8a887597-a14b-4379-a739-80e48812f12b.png)
 
 ## Funciones
-![image](https://user-images.githubusercontent.com/71861922/137066594-e9c68cfe-5aef-4fc1-bbd5-62d04f0b7d45.png)
+![image](https://user-images.githubusercontent.com/85375735/137242666-ef74a9bd-9da0-4ac7-94b9-8ba031f68470.png)
+
